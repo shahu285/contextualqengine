@@ -1,2 +1,0 @@
-# contextualqengine
-Contextual Query Engine
