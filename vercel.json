@@ -1,14 +1,5 @@
 {
-  "builds": [
-    {
-      "src": "app.py",
-      "use": "@vercel/python"
-    }
-  ],
-  "routes": [
-    {
-      "src": "/(.*)",
-      "dest": "app.py"
-    }
+  "redirects": [
+    { "source": "/", "destination": "https://github.com/your-username/rag-pdf-chatbot", "permanent": true }
   ]
 }
