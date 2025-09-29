@@ -50,9 +50,11 @@ rag-pdf-chatbot/
    cd rag-pdf-chatbot
    
 2. Install dependencies:
+   ```bash
    pip install -r requirements.txt
    
-4. Run the Streamlit app:
+3. Run the Streamlit app:
+   ```bash 
    streamlit run app.py
    
-6. Upload a PDF and start chatting with it!
+4. Upload a PDF and start chatting with it!
