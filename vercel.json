@@ -1,5 +1,6 @@
 {
   "redirects": [
-    { "source": "/", "destination": "https://github.com/your-username/rag-pdf-chatbot", "permanent": true }
+    { "source": "/", "destination": "https://github.com/shahu285/contextualqengine", "permanent": true }
   ]
 }
+
