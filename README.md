@@ -46,8 +46,8 @@ rag-pdf-chatbot/
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/<your-username>/rag-pdf-chatbot.git
-   cd rag-pdf-chatbot
+   git clone https://github.com/shahu285/contextualqengine.git
+   cd contextualqengine
    
 2. Install dependencies:
    ```bash
@@ -58,3 +58,4 @@ rag-pdf-chatbot/
    streamlit run app.py
    
 4. Upload a PDF and start chatting with it!
+
